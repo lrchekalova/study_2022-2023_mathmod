@@ -1,3 +1,8 @@
+# 1.0.6 (2023-03-09)
+## Features:
+- project-group: add files
+- lab5: add files
+
 # 1.0.5 (2023-03-02)
 ## Features:
 - lab4: add files
