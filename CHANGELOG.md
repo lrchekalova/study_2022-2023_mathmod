@@ -1,3 +1,8 @@
+# 1.0.8 (2023-03-23)
+## Features:
+- lab7: add files
+- project-group: add files
+
 # 1.0.7 (2023-03-16)
 ## Features:
 - project-group: add files
